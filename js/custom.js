@@ -95,10 +95,10 @@ $(function(){
         time: 8000,
       });
 
-      $('.js-preloader').preloadinator({
-        animation: 'fadeOut',
-        animationDuration: 1000
-      });
+      // $('.js-preloader').preloadinator({
+      //   animation: 'fadeOut',
+      //   animationDuration: 1000
+      // });
       
       $(document).ready(function () {
         $("#colorful").colorfulTab();
